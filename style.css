@@ -64,6 +64,7 @@ h3{
   background-color: orange;
   height: 35vh;
   display: flex;
+  flex-direction: row-reverse;
   justify-content: center;
   padding: 30px;
 }
@@ -93,20 +94,13 @@ h3{
   padding: 30px;
   text-align: center;
 }
-=======
-
-}
-
-h2 {
-  letter-spacing: 4px;
-  font-size: 30px;
-}
 
 .text {
-  padding-left: 30px;
+  padding: 20px;
+  width: 45%;
 }
 /* ======= section4 ======== */
-.section4 {
+.section-4 {
   background-color: #fa5c55;
   width: 100%;
   height: 35vh;
@@ -118,7 +112,7 @@ h2 {
 
 
 /* ======= section5 ======== */
-.section5 {
+.section-5 {
   background-color: #00acac;
   width: 100%;
   height: 35vh;
@@ -130,7 +124,7 @@ h2 {
 
 
 /* ======= section6 ======== */
-.section6 {
+.section-6 {
   background-color: #707ab5;
   width: 100%;
   height: 35vh;
