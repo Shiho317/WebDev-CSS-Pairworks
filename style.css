@@ -2,4 +2,138 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family: 'Enriqueta', serif;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-family: 'Notable', sans-serif;
+  font-family: 'Rasa', serif;
+  font-family: 'Roboto', sans-serif;
 }
+
+p{
+  font-weight: lighter;
+  font-size: 20px;
+  padding: 20px;
+  color: white;
+  line-height: 25px;
+}
+
+h3{
+  font-size: 30px;
+  color: white;
+  letter-spacing: 4px;
+}
+
+.top-page{
+  padding: 50px;
+  width: 100%;
+  background-color: rgb(7, 175, 175); 
+  text-align: center;
+  color: white;
+  height: 35vh;
+}
+
+.top-page h2{
+  font-size: 30px; 
+  font-family: 'Righteous', cursive;
+}
+
+.bigger{
+  font-size: 40px;
+  font-family: 'Righteous', cursive;
+}
+
+.top-page h1{
+  margin-top: 10px;
+  font-size: 60px;
+}
+
+.section-1{
+  background-color: rgb(115, 114, 185);
+  height: 35vh;
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+
+.section-1 .details{
+  padding: 20px;
+  width: 45%;
+}
+
+.section-2{
+  background-color: orange;
+  height: 35vh;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  padding: 30px;
+}
+
+.section-2 .details{
+  padding: 20px;
+  width: 45%;
+}
+
+.section-3{
+  background-color: rgb(60, 151, 182);
+  height: 35vh;
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+
+.section-3 .details{
+  padding: 20px;
+  width: 45%;
+}
+
+.copy-right{
+  background-color: rgb(7, 175, 175);
+  height: 10vh;
+  font-size: 15px;
+  padding: 30px;
+  text-align: center;
+}
+
+.text {
+  padding: 20px;
+  width: 45%;
+}
+/* ======= section4 ======== */
+.section-4 {
+  background-color: #fa5c55;
+  width: 100%;
+  height: 35vh;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/* ======= section5 ======== */
+.section-5 {
+  background-color: #00acac;
+  width: 100%;
+  height: 35vh;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/* ======= section6 ======== */
+.section-6 {
+  background-color: #707ab5;
+  width: 100%;
+  height: 35vh;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
