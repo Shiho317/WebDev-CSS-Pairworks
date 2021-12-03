@@ -3,3 +3,13 @@
   margin: 0;
   padding: 0;
 }
+
+.top-page{
+  width: 100%;
+  background-color: rgb(7, 175, 175); 
+  text-align: center;
+}
+
+.top-page h2{
+  font-size: 34px;
+}
